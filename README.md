@@ -89,7 +89,7 @@ Result Evaluation:
 
 The final outcome determines whether King A retains their palace or one of the other kings successfully captures it.
 
-
+_**A EXCEL SHEET IS PROVIDED TO UNDERSTAND THE LOGIC WELL(LOGIC WAS DEVELOPED USING THAT EXCEL SHEET).**_
 
 
 
